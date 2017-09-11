@@ -1,1 +1,4 @@
-# smarteverything
+# Smarteverything
+
+## Arduino IDE setup
+
